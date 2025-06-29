@@ -21,12 +21,7 @@ This mini project demonstrates a basic interactive webpage. It includes:
 2. Open the `index.html` file in your browser.
 3. Click the button to see an interactive message.
 
-## Live Demo
-
-[Click here to view on GitHub Pages](https://Ashu-06-07.github.io/mini-web-project/)  
-*(Link will work after enabling GitHub Pages)*
 
 ## Author
 
-Created by **Ashritha**  
-GitHub: [Ashu-06-07](https://github.com/Ashu-06-07)
+Created by **Sai Ganesh**  
